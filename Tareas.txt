@@ -1,0 +1,6 @@
+Tareas Desarrollo
+
+1- Módulo de lectura de los datos - Autores: 
+2- Módulo de estructuración de los datos en Formato de Numpy - Autor: 
+3- Módulo de Conversión de formatos a Pandas - Autor:
+5 Archivo de ejecución principal - Autor: Vergara, S.
